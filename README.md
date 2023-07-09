@@ -1,8 +1,6 @@
 # Hi there, I'm Leonardo! 👋
 
 ## Status ⭐
-![leonardo029's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardo029&theme=tokyonight&hide_border=true)
-
 <img align=left height='140px'  src = 'https://github-readme-stats.vercel.app/api?username=leonardo029&theme=tokyonight&count_private=true&show_icons=true'>
 
 <img align=left height='140px'  src = 'https://github-readme-streak-stats.herokuapp.com/?user=leonardo029&theme=tokyonight&hide_border=true'>
