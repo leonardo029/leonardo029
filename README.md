@@ -7,6 +7,6 @@
 
 <img align=left height='140px'  src = 'https://github-readme-stats.vercel.app/api?username=leonardo029&theme=tokyonight&count_private=true&show_icons=true'>
 
-<img align=left height='140px'  src = '[https://github-readme-stats.vercel.app/api?username=leonardo029&theme=tokyonight&count_private=true&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo029&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)'>
+<img align=left height='140px'  src = 'https://github-readme-stats.vercel.app/api?username=leonardo029&theme=tokyonight&count_private=true&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo029&theme=tokyonight&show_icons=true&hide_border=true&layout=compact'>
 
 <img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo029&theme=tokyonight&hide=html&layout=compact' >
